@@ -23,9 +23,9 @@ Para rodar os arquivos de exercícios, você precisará ter o **Node.js** instal
     ```bash
     git clone https://github.com/miguelmoret81-create/logica-js.git
 2. Navegue até a pasta do projeto:
-  ´´´bash
+   ```bash
    cd logica-js
 3. Execute o arquivo desejado usando o Node. Por exemplo, para rodar o arquivo de while:
-   ´´´bash
+   ```bash
    lacos-while.js
 
